@@ -1,0 +1,34 @@
+_repo: Spiritualism-and-the-New-PsychologyTerms-of-Modern-Knowledge_36908
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36908-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Culpin, Millais
+    birthdate: 1874
+    deathdate: 1952
+    gutenberg_agent_id: '38532'
+    url: http://www.gutenberg.org/2009/agents/38532
+description: ''
+gutenberg_issued: '2011-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36908'
+  lccn: '21026285'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiritualism'
+- !lcc 'BF'
+- !lcsh 'Personality disorders'
+- !lcsh 'Psychology, Pathological'
+tableOfContents: Preface -- Introduction -- The unconscious -- Complexes -- Forgetting
+  and repression -- Dissociation -- Water-divining -- Suggestion -- Hypnotism -- Dreams
+  -- Hysteria -- Experiments, domestic and other -- About mediums -- The accounts
+  of believers -- The evolution of the medium -- Conclusion.
+title: "Spiritualism and the New Psychology\r\nAn Explanation of Spiritualist Phenomena\
+  \ and Beliefs in Terms of Modern Knowledge"
+url: http://www.gutenberg.org/ebooks/36908
